@@ -1,4 +1,4 @@
-# Não consegui colocar o node modules perdao
+# Não consegui colocar a pasta node modules perdao
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
